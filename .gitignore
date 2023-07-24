@@ -1,0 +1,13 @@
+Arbeit-venv
+.ipynb_checkpoints
+*.mat
+*.xlsx
+*.py
+*.txt
+*.csv
+*.parquet
+*.pptx
+*.png
+OneVsAll.ipynb
+*.zip
+*.DS_Store
