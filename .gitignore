@@ -8,6 +8,8 @@ Arbeit-venv
 *.parquet
 *.pptx
 *.png
-OneVsAll.ipynb
 *.zip
+*.pdf
 *.DS_Store
+KNN.ipynb
+NN.ipynb
