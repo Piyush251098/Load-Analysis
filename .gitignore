@@ -13,3 +13,8 @@ Arbeit-venv
 *.DS_Store
 KNN.ipynb
 NN.ipynb
+DataVisual.ipynb
+deep_nn_net.ipynb
+OneVsAll.ipynb
+OVR_GridSearch.ipynb
+XGBoost.ipynb
